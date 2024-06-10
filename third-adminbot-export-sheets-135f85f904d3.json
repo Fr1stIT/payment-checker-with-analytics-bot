@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "adminbot-export-sheets",
+  "private_key_id": "81cd3a8e1438981a5487c205ee722298fb0bc162",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCVPsvpLcwfD8lP\noEu+UL45glcPFdK/rq1QpWnzTlWkLJHwyNOwAM5GGpFACgAX68dwwl+dx+oZ8cVz\n4V2d20cbLpfare6tjIfgJBQBCWX10GoYkI2Hf4sj8Wb83xfCKlq6w+rkmtz0yZUN\nmGa7Y36pCJuh/4p1AbbMKeVWMxDnvIVufk4hp/SNEI7UHSyXGWUwAAsJ8CWKf9gM\n+wZz0C5YKz4+WrQUZCLZD6HtDT6x3Fb+l4xPwhdB+GGERrmxBSIoyzSLAIh7/uKg\njNQNElCGQ0GhybYuGbxIrN/jZ+QJznQF68z4UUqQvkGljqAnvNMFHqJhc6e+ZSaM\nzPdHRZYPAgMBAAECggEAIhO4k4F1fhIosRm0sbvV82OjZTpiaIoF4MgkLP3R6C6V\nFBmG3EUS1Eb0q16dLtkTLNf05R3kghAGObNXoNeUoMw+uBvGx7GyxKb4OlRfB4WS\n9BDtf+bLamWQUmTOE/N/y+04EQKbOPleI0CNFHRfU1E32AF1J8pAZtWaG9iFH6Q+\nfjAuFY6cN42jjNLxlGk0in3UjHFmNBbl7/OdAhni6m07nir9GqTTHqqAN8KqeAup\nqPz9OnjkCtOIBXufcRimXDUG1Pp9LU+EgWTD1tRQJlXAHTdEkAcfPnEFZGFd4RcZ\n1YPLPsG0BZQJVnAqqzvFZx26dtIfU9i4M0LfDc1BQQKBgQDS4uwr7OtyL+L1gwpY\niIoi/R8O778lYX0NV2KLJ9EzpyN54sgoQ8u1HroIQoNRPCQAQbSuUSD+lcRUGDqO\np+oK9KyLmeCPuQZVNcbC1WSuPOCv2gasK9rv0KJUu7i/Y3wqrszGSm7EoNMpiO3L\n3FqvI6zjwrOXI/umW+XN3Sak5wKBgQC1LCHm+8o7xlMdRxvAbaGDaygrWWNjkJiw\nc5oKA673VUMPx1/8+Ls60vEYJ/3hO5X1E2ftZpultq44py2L6+Je545bCIFy6gh3\nOtmvktNbWNFit7DxYrz/bFXAgdQxrY7vRlPpAUkwwMS5FmATH9HO+hgkOwlRThxg\n2ZndGkG4mQKBgHbafdCjzm6knn1QRVxwV6owjniUll4y+4+xWFClODqsUEo5jiVj\nUEPb9W0CT5BRHNkoLvSvtLDHJ8ddgGM2L6nNDBIBv5ZA6VjM3iCgtAWfOeLiNjCC\n5vmR1Gt9ATqcjzZfHfoDqToYieo2yg7DOjjLGn2jFiRwmzu/P10u7sCxAoGANK3Q\nbclo1Fimcizq9Njrzbqqw3AKZjj1LNlwQNkxVtmD1mKylmv8hO4xDEUUnRkmUUyD\nO5RKTbUAk5iItdawy8eorO+cND24mHKUOWkH69e3imy/FnEPY3WsuX0GpitBFHHu\nlCG7lmF20hqfdPAboYM24dIIs4ty1PZwtsmbsoECgYAdvlmt1IvFbosgPj2j30wy\nTSyD0o4mJ9P45jA0DHJX5uwLFN9qD0szqhiNh+fxTLE2cNmtq9nTWp0xo3xpTbww\nmyo122otByocjBpn+kCn7xIgZM09XKMMC/ugqF4pdVly6G1QcrtyHfBLJrgUqxJQ\nleylyQdq4E7gUbnIQV1EIA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "third-admin-account@adminbot-export-sheets.iam.gserviceaccount.com",
+  "client_id": "113891912712415006511",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/third-admin-account%40adminbot-export-sheets.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
